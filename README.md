@@ -22,5 +22,5 @@
 > Learning new things<br>
 
 ## About
-_1.5 year flutter experience_
+_1.5 year flutter experience_<br>
 _want to improve economy with by starting great innovative startups_
