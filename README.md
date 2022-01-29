@@ -12,7 +12,8 @@
 - Docker - 1.5/5
 - Ffmpeg - 1.5/5
 - Google Cloud - 1.8/5
-- MS Power Point - 4.2/5
+- MS Power Point - 4.2/5<br>
+
 
 ## Interested in
 > Coding<br>
