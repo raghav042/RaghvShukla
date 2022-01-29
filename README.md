@@ -4,12 +4,14 @@
 - LinkedIn: https://www.linkedin.com/in/raghavshukla042/
 
 ## Skills
-- Html & CSS - 4/5
+- Html & CSS - 3.8/5
 - Flutter - 4/5
 - Dart - 3.5/5
-- Firebase - 4.2/5
-- Docker - 2/5
-- Google Cloud - 3/5
+- Getx - 3.5/5
+- Firebase - 4.3/5
+- Docker - 1.5/5
+- Ffmpeg - 1.5/5
+- Google Cloud - 1.8/5
 - MS Power Point - 4.2/5
 
 ## Interested in
@@ -20,4 +22,5 @@
 > Learning new things<br>
 
 ## About
-_A young hustler with a desire of helping others_
+_1.5 year flutter experience_
+_want to improve economy with by starting great innovative startups_
