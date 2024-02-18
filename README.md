@@ -1,27 +1,33 @@
 # Raghav Shukla
-- Flutter developer | Researcher
-- Email: raghvshukla042@gmail.com
-- LinkedIn: https://www.linkedin.com/in/raghavshukla042/
 
-## Skills
-- Html & CSS - 3.8/5
-- Flutter - 4/5
-- Dart - 3.5/5
-- Getx - 3.5/5
-- Firebase - 4.3/5
-- Docker - 1.5/5
-- Ffmpeg - 1.5/5
-- Google Cloud - 1.8/5
-- MS Power Point - 4.2/5<br>
+Flutter Alchemist | Building Bridges with Code, Passionate about crafting exceptional mobile experiences with Flutter. ⚡
+
+* **Email:** raghvshukla041@gmail.com
+* **LinkedIn:** [https://www.linkedin.com/in/raghv042/](https://www.linkedin.com/in/raghv042/)
 
 
-## Interested in
-> Coding<br>
-> Research & Innovation<br>
-> Entrepreneurship<br>
-> Spirituality<br>
-> Learning new things<br>
+**Key Skills:**
 
-## About
-_1.5 year flutter experience_<br>
-_want to improve economy with by starting great innovative startups_
+* **Languages:** Dart, Flutter, C#, GO
+* **Frameworks, Tools & Technologies:** Flutter, Firebase, Serverpod, Provider, Getx, WebRTC, Ffmpeg, Sqlite, Flutter-Hive
+
+
+**Featured Projects:**
+
+* **LGBTQ Dating App (Android+iOS):** Fostering connections within the LGBTQ+ community.
+* **Video Editor (Android+iOS):** Empowering creativity with social video editing.
+* **Petfinder Online App:** Matching furry friends with loving homes.
+* **Astrology App** Developed an astrology application where users and astrologers can interact.
+* **More:** Check out my full project list!
+
+
+**Beyond the Code:**
+
+* **Research & Innovation:** Exploring the future of mobile experiences.
+* **UI/UX Design:** Building interfaces that delight users.
+* **Entrepreneurship:** Turning ideas into impactful solutions.
+* **Lifelong Learner:** Always seeking new challenges and knowledge.
+
+**Contact:**
+
+I'm open to collaborating on exciting projects! Connect with me to discuss your ideas.
