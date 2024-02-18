@@ -1,16 +1,17 @@
 # Raghav Shukla
 
-Flutter Alchemist | Building Bridges with Code, Passionate about crafting exceptional mobile experiences with Flutter. ⚡
+Passionate about crafting exceptional mobile experiences with Flutter. ⚡
+<br>
 
 * **Email:** raghvshukla041@gmail.com
-* **LinkedIn:** [https://www.linkedin.com/in/raghv042/](https://www.linkedin.com/in/raghv042/)
-
+* **LinkedIn:** [https://www.linkedin.com/in/raghv042/](https://www.linkedin.com/in/raghv042/) 
+<br>
 
 **Key Skills:**
 
 * **Languages:** Dart, Flutter, C#, GO
 * **Frameworks, Tools & Technologies:** Flutter, Firebase, Serverpod, Provider, Getx, WebRTC, Ffmpeg, Sqlite, Flutter-Hive
-
+<br>
 
 **Featured Projects:**
 
@@ -19,7 +20,7 @@ Flutter Alchemist | Building Bridges with Code, Passionate about crafting except
 * **Petfinder Online App:** Matching furry friends with loving homes.
 * **Astrology App** Developed an astrology application where users and astrologers can interact.
 * **More:** Check out my full project list!
-
+<br>
 
 **Beyond the Code:**
 
@@ -31,3 +32,9 @@ Flutter Alchemist | Building Bridges with Code, Passionate about crafting except
 **Contact:**
 
 I'm open to collaborating on exciting projects! Connect with me to discuss your ideas.
+<br>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=raghav042&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav042)
+
+
